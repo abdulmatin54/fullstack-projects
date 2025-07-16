@@ -1,6 +1,6 @@
 # fullstack-projects
 job-ready projects (MERN)
-# 🌐 Fullstack Projects — Real-World Web Apps to Stand Out as a Top 1% Developer
+# 🌐 Fullstack Projects — Real-World Web Apps to Stand Out as a Top Developer
 
 Welcome to my **Fullstack Projects Repository** — a curated collection of high-impact, real-world projects built with **MERN (MongoDB, Express.js, React, Node.js)** and other modern stacks.
 
